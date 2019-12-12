@@ -1,3 +1,3 @@
 output "exemplo" {
-  value = "test"
+  value = "test22"
 }
