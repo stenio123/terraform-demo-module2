@@ -1,6 +1,6 @@
 variable "test_var" {
   description = "TFE org"
-
+  default = "test"
 }
 
 variable "test_var2" {
